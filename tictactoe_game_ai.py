@@ -75,4 +75,4 @@ if play_again == "yes":
     turns = 0
     print("Game restarted.")
 else:
-    print("Thanks for playing!")
+    print("Thanks for playing!!")
